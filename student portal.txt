@@ -1,0 +1,5 @@
+Name: T.Rajyalakshmi
+Course: BSC-Computer Science
+Section: BSC-B
+college: Kakinada Aditya Degree college 
+Attendance: 90
