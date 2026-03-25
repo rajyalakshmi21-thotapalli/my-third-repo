@@ -3,3 +3,4 @@ Course: BSC-Computer Science
 Section: BSC-B
 college: Kakinada Aditya Degree college 
 Attendance: 90
+https://github.com/rajyalakshmi21-thotapalli/my-third-repo/blob/main/student%20portal.txt
